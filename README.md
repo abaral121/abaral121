@@ -1,7 +1,7 @@
 Hello, and welcome to my portfolio. 
 
 I am currently a student at Duke University, in progress of recieving my masters degree in data science.
-I'm currently interested in Bayesian methods as well as using cloud infrastructure to host solutions.
+I'm currently interested in Bayesian methods, causal inference, as well as using cloud infrastructure to host solutions.
 Feel free to reach out, and always be learning!
 
 <!---
