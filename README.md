@@ -1,6 +1,6 @@
 Hello, and welcome to my portfolio. 
 
-I am currently a student at Duke University, in progress of recieving my masters degree in data science.
+I am currently a data scientist at Cavnue and have graduated from Duke University and have received my Masters in Data Science.
 I'm currently interested in Bayesian methods, causal inference, as well as using cloud infrastructure to host solutions.
 Feel free to reach out, and always be learning!
 
