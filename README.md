@@ -1,7 +1,7 @@
 Hello, and welcome to my portfolio. 
 
-I am currently a data scientist at Cavnue and have graduated from Duke University and have received my Masters in Data Science.
-I'm currently interested in Bayesian methods, causal inference, as well as using cloud infrastructure to host solutions.
+I am currently a data scientist at Cavnue specializing in ML/AI & Simulation and have graduated from Duke University where I have received my Masters in Data Science.
+I'm currently interested in Bayesian methods, agent based modeling, and software engineering.
 Feel free to reach out, and always be learning!
 
 <!---
